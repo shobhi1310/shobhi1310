@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhi1310&label=Profile%20views&color=0e75b6&style=flat" alt="shobhi1310" /> </p>
 
-- 🔭 I’m currently working on [dst-compiler](https://github.com/tapish2000/dst-custom-compiler)
+- 🔭 My latest work [compliancce-checker](https://github.com/darahask/compliance-checker)
 
-- 🌱 I’m currently learning **Operating System, Compiler Design, Computer Networks**
-
-- 💬 Ask me about **react, nodejs, compilers**
+- 💬 Ask me about **react, nodejs**
 
 - 📫 How to reach me **vishalshubhankar@gmail.com**
 
